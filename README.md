@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/suvigyagoel/demo-porject/_apis/build/status/suvigya21.pipelines-java?branchName=main)](https://dev.azure.com/suvigyagoel/demo-porject/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
